@@ -1,2 +1,3 @@
 # Food-delivery-app
-Deployed using Netlify
+Check master branch 
+Deployed on Netlify https://tomatotopia-express.netlify.app/
